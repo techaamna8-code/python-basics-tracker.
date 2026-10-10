@@ -3,8 +3,12 @@ My Python learning journey and basic practice scripts from scratch.
 
 
 
-# Simple calculator using input() function
+# python-basics-tracker
+My Python learning journey and basic practice scripts from scratch.
 
+### Simple Calculator using input() function
+
+```python
 # Title
 print("--- Simple Python Calculator ---")
 
@@ -17,3 +21,4 @@ print("Addition :", num1, "+", num2, "=", num1 + num2)
 print("Subtraction :", num1, "-", num2, "=", num1 - num2)
 print("Multiplication :", num1, "*", num2, "=", num1 * num2)
 print("Division :", num1, "/", num2, "=", num1 / num2)
+```
